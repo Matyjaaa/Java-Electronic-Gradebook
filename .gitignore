@@ -1,0 +1,11 @@
+# Ignoruj pliki skompilowane Mavena
+target/
+*.class
+
+# Ignoruj prywatne ustawienia środowiska NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
